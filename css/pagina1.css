@@ -1,0 +1,165 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #ebebeb;
+}
+@font-face{
+    font-family: tituloga;
+    src: url(/fonts/Cocogoose_Pro_Italic-trial.ttf);
+}
+.contenedor{
+    width: 80%;
+    max-width: 1100px;
+    margin: auto;
+}
+div#superior{
+    margin-left: 0px;
+}
+div#titulo{
+    font-size: 13pt;
+    margin-top: 43px;
+    text-align: center;
+    font-family: tituloga;
+}
+div#nido{
+    width: 1210px;
+    height: 4560px;
+    margin-left: -100px;
+    background-color: white;
+}
+div#foto1{
+    margin-top: 61px;
+    margin-left: 61px;
+    background-color: white;
+}
+div#foto2{
+    margin-left: 61px;
+    margin-top: 44px;
+}
+div#foto3{
+    margin-left: -611px;
+}
+div#texto1{
+    width: 467.86px;
+    height: 387.17px;
+    margin-left: 686px;
+    margin-top: -400px;
+    font-size: 18.2pt;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(57, 107, 91, 0);
+}
+div#texto2{
+    width: 1105.835px;
+    height: 297.1758px;
+    margin-top: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 61px;
+    font-size: 18.2pt;
+    background-color: rgba(0, 255, 255, 0);
+}
+div#texto3{
+    width: 1105px;
+    height: 56px;
+    margin-left: 61px;
+    margin-top: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(127, 255, 212, 0);
+    font-size: 18.2pt;
+}
+div#texto4{
+    width: 495px;
+    height: 747.1px;
+    margin-left: 672.1px;
+    margin-top: -620px;
+    font-size: 15pt;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(0, 0, 255, 0);
+}
+div#sep1{
+    width: 1104px;
+    height: 3px;
+    border-radius: 2px;
+    margin-left: 57px;
+    background-color: black;
+}
+div#sup1{
+    margin-left: 61px;
+    margin-top: 55.4px;
+    font-size: 15px;
+    font-family: tituloga;
+}
+div#sep2{
+    margin-left: 61px;
+    margin-top: 85px;
+}
+div#sup2{
+    margin-top: -46px;
+    margin-left: 170px;
+    font-size: 11pt;
+    color: white;
+    font-family: tituloga;
+}
+div#sup3{
+    margin-top: -46px;
+    margin-left: 170px;
+    margin-left: 236px;
+    font-size: 11pt;
+    color: white;
+    font-family: tituloga;
+}
+div#sup3{
+    margin-top: -46px;
+    margin-left: 170px;
+    margin-left: 236px;
+    font-size: 11pt;
+    color: white;
+    font-family: tituloga;
+}
+div#gafas{
+    margin-left: -671px;
+}
+div#amazon{
+    margin-top: -100px;
+    margin-left: -611px;
+}
+div#amazon2{
+    margin-top: -160px;
+    margin-left: -611px;
+}
+div#amazonfoto{
+    margin-left: 120px;
+    margin-top: 50px;
+}
+div#amazontexto{
+    width: 495px;
+    height: 747.1px;
+    margin-left: 672.1px;
+    margin-top: -445px;
+    font-size: 15pt;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(0, 0, 255, 0);
+}
+div#amazontexto2{
+    width: 495px;
+    height: 747.1px;
+    margin-left: 672.1px;
+    margin-top: -510px;
+    font-size: 15pt;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(0, 0, 255, 0);
+}
+div#amazontexto3{
+    width: 495px;
+    height: 747.1px;
+    margin-left: 672.1px;
+    margin-top: -400px;
+    font-size: 15pt;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(0, 0, 255, 0);
+}
+div#contexto2{
+    margin-left: 670px;
+    margin-top: -70px;
+}
